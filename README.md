@@ -7,7 +7,7 @@ Virtual Machine running in a web browser.
 
 ## Website
 
-https://lrusso.github.io/VirtualXP/VirtualXP.htm
+[Click here](https://wruxofficial.github.io/VirtualLinux/VirtualXP.htm)
 
 ## Changing the ISO file content
 
